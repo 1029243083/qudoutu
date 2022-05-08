@@ -1,0 +1,36 @@
+// 文档教程: https://uniapp.dcloud.net.cn/uniCloud/schema
+{
+	"bsonType": "object",
+	"required": [],
+	"permission": {
+		"read": true,
+		"create": true,
+		"update": false,
+		"delete": false
+	},
+	"properties": {
+		"_id": {
+			"description": "ID，系统自动生成"
+		},
+		"name": {
+			"bsonType": "string",
+			"title": "图片名字",
+			"trim": "both"
+		},
+		"type": {
+			"bsonType": "string",
+			"title": "表情包的类型",
+			"trim": "both"
+		},
+		"src": {
+			"bsonType": "string",
+			"title": "表情包的路径",
+			"trim": "both"
+		},
+		"alias": {
+			"bsonType": "string",
+			"title": "表情包的别名",
+			"trim": "both"
+		}
+	}
+}

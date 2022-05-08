@@ -1,0 +1,52 @@
+
+.content.data-v-80842834 {
+	height: 100vh;
+	background-color: #f0f0f0;
+}
+.user-info.data-v-80842834 {
+	height: 40%;
+	background-image: linear-gradient(135deg, #FD6585 10%, #0D25B9 100%);
+}
+.center.data-v-80842834 {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.av.data-v-80842834 {
+	width: 200rpx;
+}
+.av image.data-v-80842834 {
+	border: 10rpx solid #ffffff;
+	border-radius: 50%;
+	width: 100%;
+}
+.name.data-v-80842834 {
+	margin-top: 10rpx;
+	color: #fff;
+}
+.list.data-v-80842834 {
+	background-color: #fff;
+	margin-top: 30rpx;
+}
+.item.data-v-80842834 {
+	border-bottom: 0.01rpx solid rgb(0, 0, 0, 0.1);
+	padding: 25rpx;
+	font-size: 26rpx;
+	display: flex;
+	align-items: center;
+}
+.text.data-v-80842834 {
+	flex: 5;
+}
+.iconfont.data-v-80842834 {
+	margin-right: 20rpx;
+	flex: 0;
+}
+.icon-xiangyoujiantou.data-v-80842834 {
+	margin: 0;
+	flex: 0;
+	text-align: right;
+}
+
